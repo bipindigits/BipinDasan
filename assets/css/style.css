@@ -270,6 +270,12 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 24px;
     margin-bottom: 30px;
   }
+  #hero {
+  width: 100% !important;
+  height: 40vh !important;
+  background: url("../img/hero-bg.jpg") top center !important;
+  background-size: cover !important;
+  }
 }
 
 /*--------------------------------------------------------------
